@@ -16,7 +16,7 @@
   </tr>
   <tr>
     <td>routes</td>
-    <tr> forwards API Server management service requests to the specified API Server instance</tr>
+    <td> forwards API Server management service requests to the specified API Server instance</td>
   </tr>
   <tr>
     <td>config</td>
@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td>index.js</td>
-    <td></td>
+    <td>Entry point to express app</td>
   </tr>
   
 </table>
