@@ -1,5 +1,5 @@
 <h1>Api with msql database</h1>
-<p>This is a simple students and course api with my sql databese,there is one to many relationship between the students and courses where one course can be taken by many students</p>
+<p>This is a simple students and course Node.js api with my sql databese,there is one to many relationship between the students and courses where one course can be taken by many students</p>
 .Install Node.js version 18.0.0
 <h1>Api Structure</h1>
 <table>
